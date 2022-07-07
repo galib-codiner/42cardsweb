@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react'
 import ContactBanner from '../components/ContactBanner'
+import Contactus from '../components/Contactus'
 
 const Contact = () => {
 
@@ -10,6 +11,7 @@ const Contact = () => {
   return (
     <div>
       <ContactBanner />
+      <Contactus />
     </div>
   )
 }

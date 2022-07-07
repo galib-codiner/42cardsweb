@@ -1,1 +1,20 @@
-/*# sourceMappingURL=Services.css.map */
+.serviceBanner {
+    margin-top: 100px !important;
+}
+
+
+
+/* servicelist */
+
+.serviceList {
+    background-image: url(../../assests/service-list-bg.png);
+    background-position: center center;
+    background-size: cover;
+    padding: 150px 0px;
+}
+
+.serviceList h3 {
+    color: #fff;
+}
+
+/* servicelist-end */

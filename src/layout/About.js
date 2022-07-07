@@ -1,5 +1,8 @@
 import React, { useEffect } from 'react'
 import AboutBanner from '../components/AboutBanner'
+import Aboutus from '../components/Aboutus'
+import AboutusTeam from '../components/AboutusTeam'
+import AboutusWeOffer from '../components/AboutusWeOffer'
 
 const About = () => {
 
@@ -10,6 +13,9 @@ const About = () => {
   return (
     <div>
       <AboutBanner />
+      <Aboutus />
+      <AboutusWeOffer />
+      <AboutusTeam />
     </div>
   )
 }

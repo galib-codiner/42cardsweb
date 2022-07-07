@@ -1,5 +1,8 @@
 import React, { useEffect } from 'react'
 import ServiceBanner from '../components/ServiceBanner'
+import ServiceBenifits from '../components/ServiceBenifits'
+import ServiceList from '../components/ServiceList'
+import ServiceValue from '../components/ServiceValue'
 
 const Services = () => {
 
@@ -10,6 +13,9 @@ const Services = () => {
   return (
     <div>
       <ServiceBanner />
+      <ServiceValue />
+      <ServiceList />
+      <ServiceBenifits />
     </div>
   )
 }

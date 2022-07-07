@@ -1,10 +1,11 @@
 import React from 'react'
+import '../styles/layout/About.css'
 import { Container, Row, Col, Image } from 'react-bootstrap';
 import aboutBanner from '../assests/About-banner.png'
 
 const AboutBanner = () => {
   return (
-    <div>
+    <div className='aboutBanner'>
         <Container fluid>
             <Row>
                 <Col md={12}>

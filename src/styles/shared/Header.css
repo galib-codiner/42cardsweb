@@ -1,16 +1,20 @@
 .header {
   background-color: #fff !important;
   color: #fff;
- 
 }
+
+.ml-auto, .mx-auto {
+  margin-left: auto!important;
+}
+
 .header .navbar-brand img {
-  width: 180px !important;
+  width: 200px !important;
   position: absolute;
   top: 0px;
 }
 
 .navbar-expand-lg .navbar-nav {
-  padding-top: 20px;
+  padding-top: 18px;
 }
 
 .navbar-light .navbar-nav .nav-link a {
