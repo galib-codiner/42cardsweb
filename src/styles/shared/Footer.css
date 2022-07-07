@@ -1,0 +1,65 @@
+.footer {
+    background-color: #014a97 !important;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 50px 0px 50px 0px;
+    z-index: 2;
+}
+
+.footerLogo img {
+    position: relative;
+    top: 70px;
+}
+
+.footer h2 {
+    color: #FFFFFF;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.borderImage {
+   margin-top: -30px;
+}
+
+.quick-link ul li {
+    cursor: pointer;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    list-style-type: none;
+    margin-left: -20px;
+}
+
+.quick-link ul li a {
+    color: #FFFFFF;
+    font-weight: 600;
+    font-family: 'Helvetica'!important;
+}
+
+.emailIcon {
+    color: #FFFFFF;
+}
+
+.linkedinIcon{
+    color: #014a97;
+    background-color: #FFFFFF;
+    padding: 13px;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+.twitterIcon{
+    color: #014a97;
+    background-color: #FFFFFF;
+    padding: 13px;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+.youTubeIcon{
+    color: #014a97;
+    background-color: #FFFFFF;
+    padding: 13px;
+    border-radius: 50%;
+    margin: 5px;
+}

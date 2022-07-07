@@ -1,0 +1,27 @@
+.header {
+  background-color: #fff !important;
+  color: #fff;
+ 
+}
+.header .navbar-brand img {
+  width: 180px !important;
+  position: absolute;
+  top: 0px;
+}
+
+.navbar-expand-lg .navbar-nav {
+  padding-top: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link a {
+  color: #000 !important;
+  font-size: 18px;
+  font-weight: 500;
+  padding-left: 22px;
+  padding-right: 22px;
+  font-family: 'Helvetica'!important;
+  transition: .5 ease-in-out;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link a:hover {
+  color: #014A97 !important;
+}
